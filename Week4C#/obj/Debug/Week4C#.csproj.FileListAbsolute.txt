@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C#.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C_.Form1.resources
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C_.Properties.Resources.resources
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C#.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C#.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Week4C#\Week4C#\bin\Debug\Week4C#.exe.config
+C:\Users\HP\source\repos\Week4C#\Week4C#\bin\Debug\Week4C#.exe
+C:\Users\HP\source\repos\Week4C#\Week4C#\bin\Debug\Week4C#.pdb
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C#.exe
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C#.pdb
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C_.AddForm.resources
+C:\Users\HP\source\repos\Week4C#\Week4C#\obj\Debug\Week4C_.UpdateForm.resources
